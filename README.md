@@ -17,10 +17,10 @@ Move the chicken across different terrains while avoiding cars and water. Try to
 
 | Key      | Action         |
 |----------|----------------|
-| W / ↑    | Move forward   |
-| S / ↓    | Move backward  |
-| A / ←    | Move left      |
-| D / →    | Move right     |
+|  ↑       | Move forward   |
+|  ↓       | Move backward  |
+|  ←       | Move left      |
+|  →       | Move right     |
 
 Mobile controls are also available via on-screen directional buttons.
 
